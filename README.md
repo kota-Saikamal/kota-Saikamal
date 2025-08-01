@@ -1,4 +1,14 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=660&lines=Hey+there%2C+I'm+Saikamal+Kota+%F0%9F%91%8B;Cybersecurity+Enthusiast+%7C+Code+Detective;Turning+Vulnerabilities href="mailto:saikamal.kota@gmail.com" target="_blank" rel="noopener noreferrer">
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=660&lines=Hey+there%2C+I'm+Saikamal+Kota+%F0%9F%91%8B;Cybersecurity+Enthusiast+%7C+Code+Detective;Turning+Vulnerabilities+into+Strengths" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:saikamal.kota@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
   
 
 
