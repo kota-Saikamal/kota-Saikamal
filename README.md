@@ -1,1 +1,128 @@
-<!-- Typing Animation Banner --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=900&color=38B6FF&center=true&vCenter=true&width=760&lines=Hey+there%2C+I'm+Saikamal+Kota+%F0%9F%91%8B;Cybersecurity+Enthusiast+%7C+Digital+Defender;Code+Detective+%7C+Linux+Sorcerer+%F0%9F%A7%A1;Unbreakable+Curiosity%2C+Relentless+Innovation;Welcome+to+my+Cyber-Lab+Domain%21" alt="Typing SVG" /> </p> <div align="center"> <img src="https://img.icons8.com/color-glass/96/hacker.png" alt="Hacker Icon" height="100"/> <img src="https://img.icons8.com/fluency/96/linux.png" alt="Linux Icon" height="100"/> <img src="https://img.icons8.com/fluency/96/firewall.png" alt="Firewall Icon" height="100"/> <img src="https://img.icons8.com/plasticine/96/security-shield-green.png" alt="Shield Icon" height="100"/> </div> <p align="center"> <a href="mailto:saikamal.kota@gmail.com" target="_blank" rel="noopener noreferrer"> <img alt="Gmail" src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="tel:+919603776586" target="_blank"> <img alt="Phone" src="https://img.shields.io/badge/Call-+91+9603776586-00b894?style=for-the-badge&logo=call&logoColor=white" /> </a> </p> <p align="center"> <img src="https://media.giphy.com/media/j5hldmS6z7FdRkjkgz/giphy.gif" alt="Divider" width="92%" /> </p> <h2 align="center">🛡️ Welcome to My Cyber Fortress!</h2> <p align="center" style="font-size:1.15rem; color:#e3f2fd; max-width:800px;"> I’m <b>Saikamal Kota</b> from Hyderabad, a passionate <b>Cybersecurity Warrior</b>, ethical break/defender & automation explorer. I turn vulnerabilities into strengths, scripts into shields, and curiosity into high-impact results.<br> <i>Think of me as your firewall with personality—always learning, never compromised.</i><br> <br> <b>When I’m not securing servers or building digital sandboxes, you’ll find me:</b> <ul> <li>Automating tasks and cyber-defenses in Python, Bash, and Java ⚡</li> <li>Puzzle-solving with Linux permissions & user roles 🐧</li> <li>Cooking up pentest labs in VirtualBox and tinkering with OS hardening 🦾</li> <li>Outsmarting threats and hacking my way to knowledge 🔓</li> </ul> </p> <p align="center"> <img src="https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif" width="69%" alt="cyberanimation"/> </p> <h2 align="center">🎓 Education: My Power-Ups</h2> <div align="center"> <table style="border-radius:14px; box-shadow: 0 3px 17px #38B6FF;"> <tr> <th>🏢</th> <th>🎓</th> <th>⏰</th> <th>🔎</th> </tr> <tr> <td>Siddhartha Inst. of Technology & Science</td> <td>B.Tech, Computer Science</td> <td>2022 - Present</td> <td>Cybersecurity, Ethical Hacking</td> </tr> <tr> <td>Narayana Junior College, Hyderabad</td> <td>Intermediate, MPC</td> <td>2020 - 2022</td> <td>Mathematics, Physics, Chemistry</td> </tr> </table> </div> <p align="center"> <img src="https://media.giphy.com/media/3orieY2DrDJCcJDLZm/giphy.gif" width="360"/> </p> <h2 align="center">🛠️ Tech Stack: My Digital Arsenal</h2> <p align="center"> <img alt="Tech badge python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Tech badge java" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white" /> <img alt="Tech badge bash" src="https://img.shields.io/badge/Bash-4eaa25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img alt="Tech badge linux" src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=yellow" /> <img alt="Tech badge windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Tech badge virtualbox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img alt="Tech badge docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Tech badge git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="Tech badge vscode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p> <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,bash,linux,windows,docker,git,vscode,virtualbox" height="57"/> </div> <ul style="max-width: 700px; margin: 0 auto; color:#f1faee; font-size:1.05rem;"> <li><b>OS:</b> Linux & Windows</li> <li><b>Languages:</b> Python, Java, Bash</li> <li><b>Virtualization:</b> VirtualBox wizardry</li> <li><b>Security Tricks:</b> Permissions, user management, secure setups</li> <li><b>Always exploring new infosec tools & scripting magic</b></li> </ul> <p align="center"> <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="divider" width="350"/> </p> <h2 align="center">💡 Projects & Experiments</h2> <ul style="font-size: 1.08rem; color:#caf0f8; max-width:700px;"> <li><b>🔒 Secured Linux Environments:</b> Hardened distros, automated user roles & file protections.</li> <li><b>⚔️ Simulated Attacks:</b> Used virtual sandboxes & scripting to break, then rebuild security.</li> <li><b>🤖 Automation Master:</b> Python & Bash scripts for smart system monitoring & self-healing defenses.</li> </ul> <h2 align="center">🌟 The Superpowers</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=17&duration=3200&pause=700&color=64FFDA&lines=Persistent+as+a+Firewall;Curious+as+a+White-Hat;Tenacious+and+Tireless;Explaining+the+Complex+with+Ease" alt="traits" /> </div> <ul style="color:#ffe066; max-width:650px; font-size:1.05rem;"> <li><b>Persistent</b>—bugs don’t stand a chance.</li> <li><b>Curious</b>—reverse engineering problems to find the “why”.</li> <li><b>Self-Motivated</b>—driven to learn and upskill, always.</li> <li><b>Communicator</b>—bringing security awareness to all teams.</li> </ul> <h2 align="center">🌐 Connect & Collaborate!</h2> <p align="center"> <a href="mailto:saikamal.kota@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Contact_Easy-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="tel:+919603776586" target="_blank"> <img src="https://img.shields.io/badge/Call-+91+9603776586-38B6FF?style=for-the-badge&logo=phone&logoColor=white" /> </a> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=saikamalkota&label=Profile+Views&color=38B6FF&style=flat-square" alt="Profile views"/> </div> <p align="center" style="color:#636e72; font-size:1.05rem;"> <b>“Security is an endless puzzle; I just make solving it fun.”</b> <br /> <i>Let’s build, break, and secure the future together!</i> </p> <p align="center"> <img src="https://media.giphy.com/media/Rnb4k2j1vEa1OkCeZC/giphy.gif" width="120"/> </p>
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Saikamal+Kota+%F0%9F%91%8B;Cybersecurity+Enthusiast+%7C+Code+Detective;Turning+Vulnerabilities+into+Strengths" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:saikamal.kota@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+👨💻 Who Am I?
+
+
+  🚀 Budding Cybersecurity & Ethical Hacking Geek from Hyderabad,
+  with a burning curiosity for sniffing out vulnerabilities and securing digital fortresses.
+  
+  🛡️ On a mission to make the online world just a little bit safer, one clever script at a time.
+  When I’m not hardening servers or tinkering in VirtualBox, you’ll find me:
+  
+    Automating the boring stuff with Python and Bash 🐍
+    Smashing code in Java ☕
+    Diving into Linux file permissions like a penguin on a mission 🐧
+    Outthinking cyber-threats and playing the ultimate game of digital chess ♟️
+  
+  
+  Ready to author the next chapter in ethical hacking… one packet at a time.
+
+
+
+  
+
+
+
+
+🎓 My Learning Journey
+
+
+
+
+  
+    🏫 Institution
+    🎯 Degree
+    📅 Years
+    🔍 Focus
+  
+  
+    Siddhartha Institute of Technology & Science
+    B.Tech, CSE
+    2022 - Present
+    Cybersecurity & Ethical Hacking
+  
+  
+    Narayana Junior College, Hyderabad
+    Intermediate, MPC
+    2020 - 2022
+    Mathematics, Physics, Chemistry
+  
+
+
+
+
+  
+
+
+
+
+🛠️ Digital Arsenal & Tech Bravado
+
+
+  
+
+
+
+  Operating Systems: Mastering both Linux & Windows
+  Programming & Scripting: Java | Python | Bash — automating, analyzing, defending!
+  Virtualization: Spinning up sandboxes and pentest labs with VirtualBox
+  Security Foundation: Linux file permissions, user roles, and secure system setup
+  Always exploring new tools & tricks in the infosec universe!
+
+
+
+  
+
+
+
+🔐 Projects & Side Quests
+
+
+  Secured Linux Environments: Hardened OSes and automated user management scripts.
+  Simulated Attacks: Used virtual labs to stress-test system vulnerabilities and response.
+  Code Automation: Built robust tools using Python and Bash for efficient system monitoring.
+
+
+
+  
+
+
+
+🌟 Traits Behind the Firewall
+
+
+  Persistent — Never stops until the bug is found (and squished).
+  Curious — Loves unraveling the why behind every exploit.
+  Self-Motivated — Chases knowledge with relentless drive.
+  Communicative — Enjoys breaking down complex threats for everyone to understand.
+
+
+
+  
+
+
+
+  🚦 Let's connect and secure the digital frontier together!
