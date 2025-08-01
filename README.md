@@ -20,9 +20,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahas1234&show_icons=true&count_private=true&theme=radical&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahas1234&theme=radical&hide_border=false" height="160" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahas1234&layout=compact&langs_count=6&theme=radical&hide_border=false" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kota-Saikamal4&show_icons=true&count_private=true&theme=radical&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kota-Saikamal&theme=radical&hide_border=false" height="160" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kota-Saikamal&layout=compact&langs_count=6&theme=radical&hide_border=false" height="160" alt="Top Languages" />
 </div>
 
 ---
